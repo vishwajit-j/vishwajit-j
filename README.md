@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishwajit Jankar  
 
-<!--
-**vishwajit-j/vishwajit-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final-year Engineering Student** — Automation & Robotics Engineering  
+💡 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🐍 Skilled in **Python** and popular libraries:  
+  `pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `Seaborn`  
+- 🤖 Familiar with ML algorithms:  
+  Linear Regression · Logistic Regression · Decision Tree · Random Forest Classifier  
+- 🌱 Currently learning **Deep Learning** and exploring advanced AI topics  
+- 🌐 Basic knowledge of **Flask** for backend integration  
+- 📊 Strong interest in applying AI/ML for **real-world problem solving**  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Python  
+**Libraries & Tools:** Pandas · NumPy · Matplotlib · Seaborn · scikit-learn  
+**Frameworks:** Flask (Beginner)  
+**Other Skills:** Data Preprocessing · Model Training · Visualization  
+
+---
+
+## 📈 Current Focus  
+- Building projects in **Machine Learning & Deep Learning**  
+- Expanding skills in **Data Science workflows**  
+- Learning to deploy AI models for real-world use cases  
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishwajit%20Jankar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vishwajit-jankar)
+
+---
+
+⭐ *"Always learning, always building."*  
